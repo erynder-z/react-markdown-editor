@@ -1,6 +1,7 @@
 {
   "name": "react-markdown-editor",
   "private": true,
+  "homepage": "https://erynder-z.github.io/react-markdown-editor/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
